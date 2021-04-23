@@ -1,0 +1,19 @@
+body {
+    max-width:90%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+h1 {
+        align-items:center;
+color:black;
+padding:1rem;
+margin:auto;
+}
+canvas {
+    background-color: whitesmoke;
+    border:1px solid black;
+height:100%}
+#titre {
+    font-size : 3rem;
+}
